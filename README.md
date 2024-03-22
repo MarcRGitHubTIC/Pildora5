@@ -34,7 +34,7 @@ sudo apt-get install terraform
 Cuando ya tenemos el terraform procedemos a clonar el repositorio donde tenemos todos nuestros ficheros del terraform 
 -->
 
-git clone git clone https://github.com/MarcRGitHubTIC/Pildora5.git Pildora_5
+git clone https://github.com/MarcRGitHubTIC/Pildora5.git Pildora_5
 
 <!-- 
 Cuando tenemos el repositorio clonado, nos movemos a la carpeta descargada
